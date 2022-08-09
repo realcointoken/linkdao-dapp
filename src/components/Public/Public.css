@@ -8,7 +8,7 @@
     padding: 80px 0 0;
     position: relative;
     min-height: calc(100vh - 255px);
-    background-color: #09162B;
+    background-color: #010103;
 
 }
 
@@ -80,14 +80,14 @@
     height: 50%;
     /* border-radius: 50%; */
     margin-right: 17px;
-    background-color: #09162E;
+    background-color: #FFD700;
 }
 
 .ido-name {
     font-size: 20px;
     font-weight: 700;
     color: #fff;
-    text-shadow: 0 1px 1px #1b1b31;
+    text-shadow: 0 1px 1px #FFD700;
     width: 400px;
     line-height: 40px;
 }
@@ -269,7 +269,7 @@
     text-align: center;
     cursor: pointer;
     margin-top: 20px;
-    background-image: linear-gradient(180deg , #00e2c8, #00e2c8);
+    background-image: linear-gradient(180deg , #db14bd, #0000FF);
     width: 46%;
     padding: 10px 16px;
 
@@ -317,7 +317,7 @@
 
 
 .theme_color{
-    color: #00E3C9;
+    color: #db14bd;
 }
 
 
