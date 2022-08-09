@@ -5,7 +5,7 @@ const STATUS = ['live','upcoming','ended']
 
 export const data=[
     {
-        name:'Linkdao Private Round',
+        name:'wow100k Private Round',
         image:wow100k,
         softcap:'0',
         hardcap:'400,000',
