@@ -1,11 +1,11 @@
-import LKD from '../images/LKD.svg'
+import WOW100K from '../images/LKD.svg'
 export const data = [
     {
-        token:"LKD",
+        token:"100K",
         apy:"150%",
         daily:"0.416%",
         tvl:"-",
         network:"linkdao.network",
-        img:LKD
+        img:100K
     },
 ]
