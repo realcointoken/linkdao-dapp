@@ -80,14 +80,14 @@
     height: 50%;
     /* border-radius: 50%; */
     margin-right: 17px;
-    background-color: #FFD700;
+    background-color: #010103;
 }
 
 .ido-name {
     font-size: 20px;
     font-weight: 700;
     color: #fff;
-    text-shadow: 0 1px 1px #FFD700;
+    text-shadow: 0 1px 1px #010103;
     width: 400px;
     line-height: 40px;
 }
