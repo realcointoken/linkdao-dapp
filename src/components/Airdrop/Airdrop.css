@@ -8,7 +8,7 @@
   padding: 80px 0 0;
   position: relative;
   min-height: calc(100vh - 255px);
-  background-color: #09162e;
+  background-color: #28ed09;
   overflow: auto;
 }
 
@@ -47,11 +47,11 @@
 }
 
 .is-active {
-  background-color: #09162e;
+  background-color: #df1fed;
   border-radius: 10px;
   color: #fff;
-  box-shadow: 0 3px 3px 0 #03111c;
-  text-shadow: 0 1px 1px #23233b;
+  box-shadow: 0 3px 3px 0 #0a07e3;
+  text-shadow: 0 1px 1px #dbf51b;
 }
 
 .line-perch {
