@@ -14,7 +14,7 @@
 
 .ido-content {
     display: block;
-    /* background-color: #09162E; */
+    /* background-color: #010103; */
     height: auto;
     margin-bottom: 50px;
 }
@@ -59,7 +59,7 @@
     padding: 40px 48px;
     box-sizing: border-box;
     background-color: #09162E;
-    /* box-shadow: 0 10px 36px 0 #18142b; */
+    /* box-shadow: 0 10px 36px 0 #010103; */
     border: 0.5px solid rgb(128,128,128,0.2);
 }
 
@@ -162,7 +162,7 @@
 .column-value {
     font-size: 14px;
     font-weight: 400;
-    color: #9999b3;
+    color: #f0f0fa;
     line-height: 19px;
 }
 
@@ -172,8 +172,8 @@
     display: flex;
     flex-direction: column;
     border-radius: 23px;
-    background-color: #09162E;
-    /* box-shadow: 0 10px 36px 0 #18142b; */
+    background-color: #010103;
+    /* box-shadow: 0 10px 36px 0 #010103; */
     box-sizing: border-box;
     border: 0.5px solid rgb(128,128,128,0.2);
 
@@ -366,7 +366,7 @@
 
 
 .amount_color{
-    color:#9999b3;
+    color:#e9ebee;
 
 }
 
@@ -417,7 +417,7 @@
 
 
 .ct1-input input:hover{
-    border: 1px solid #10a3d7;
+    border: 1px solid #e505ed;
 }
 
 
@@ -563,7 +563,7 @@
   }
 
   .disabled{
-    background-color: #2f2f35;
+    background-color: #010103;
     background-image: none;
     cursor: default;
   }
