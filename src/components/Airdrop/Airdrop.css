@@ -194,7 +194,7 @@
   line-height: 28px;
   font-weight: 400;
   color: #666680;
-  text-shadow: 0 1px 1px #20203a;
+  text-shadow: 0 1px 1px #0000FF;
   margin-bottom: 1px;
 }
 
@@ -204,7 +204,7 @@
   font-weight: 400;
   text-align: left;
   color: #e9ebee;
-  text-shadow: 0 1px 1px #20203a;
+  text-shadow: 0 1px 1px #8B008B;
 }
 
 .time {
@@ -220,7 +220,7 @@
   height: 12px;
   position: relative;
   border-radius: 50%;
-  background-color: #33334b;
+  background-color: #d9f507;
   margin-right: 8px;
   display: flex;
   align-items: center;
@@ -230,7 +230,7 @@
 .perch-center {
   width: 7px;
   height: 7px;
-  background-color: #2669f5;
+  background-color: #d9f507;
   border-radius: 50%;
 }
 
@@ -238,7 +238,7 @@
   position: absolute;
   height: 12px;
   width: 2px;
-  background-color: #33334b;
+  background-color: #0000FF;
   bottom: 11px;
   left: 5px;
 }
@@ -266,7 +266,7 @@
 
 .el-progress-bar__outer {
   height: 12px;
-  background-color: #33334b;
+  background-color: #d5f00c;
   border-radius: 5px;
   overflow: hidden;
   position: relative;
@@ -275,7 +275,7 @@
 
 .el-progress-bar__inner {
   width: 100%;
-  background-color: #1989e4;
+  background-color: #0000FF;
   height: 10px;
   border-radius: 5px;
 }
@@ -360,11 +360,11 @@
 }
 
 .color_grey {
-  color: #9a9ab4;
+  color: #faf605;
 }
 
 .color_hover:hover {
-  color: #1989e4;
+  color: #0ff207;
 }
 
 .title_text {
